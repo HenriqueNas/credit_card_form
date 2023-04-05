@@ -21,4 +21,10 @@ const _textTheme = TextTheme(
     fontSize: 14,
     height: 1.14,
   ),
+  bodySmall: TextStyle(
+    fontFamily: 'Source Sans Pro',
+    color: Color(0xFFE5E7EB),
+    fontSize: 14,
+    height: 1.14,
+  ),
 );

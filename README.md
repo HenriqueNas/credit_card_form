@@ -1,16 +1,40 @@
-# credit_card_form
+# Credit Card Form in Flutter
 
-A new Flutter project.
+This is a challenge project.
+The goal is to create a credit card form with a flip animation.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Chrome](assets/screenshots/chrome.png "Chrome")
 
-A few resources to get you started if this is your first Flutter project:
+![iPhone](assets/screenshots/iPhone.png "iPhone")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![MacOS](assets/screenshots/macOS.png "MacOS")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+
+- First install Flutter SDK
+
+```bash
+# linux
+sudo snap install flutter --classic
+
+# mac
+brew cask install flutter
+
+# windows
+choco install flutter
+```
+
+- Clone this repository
+
+```bash
+git clone https://github.com/HenriqueNas/credit_card_form
+```
+
+- Then run the following commands:
+
+```bash
+flutter pub get
+flutter run
+```

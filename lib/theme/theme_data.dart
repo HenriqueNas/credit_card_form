@@ -5,7 +5,8 @@ part 'text_theme.dart';
 part 'color_scheme.dart';
 part 'button_themes.dart';
 
-final lightTheme = ThemeData(
+final darkTheme = ThemeData(
+  brightness: Brightness.dark,
   colorScheme: _colorScheme,
   textTheme: _textTheme,
   inputDecorationTheme: _inputDecorationTheme,
