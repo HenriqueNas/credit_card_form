@@ -9,7 +9,7 @@ The goal is to create a credit card form with a flip animation.
 
 ![iPhone](assets/screenshots/iPhone.png "iPhone")
 
-![MacOS](assets/screenshots/macOS.png "MacOS")
+![MacOS](assets/screenshots/MacOS.png "MacOS")
 
 ## How to run
 
